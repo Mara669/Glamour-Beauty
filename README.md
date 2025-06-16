@@ -1,0 +1,1 @@
+This is a website for Glamour Beauty that tells about the beauty salon, It takes a Reservation, Add a review and see through the review there is a contact as and contact information,there are also the service they give. The website is made using HTML,CSS,and JAVASCRIPT programming language
